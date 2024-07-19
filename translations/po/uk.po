@@ -31,12 +31,12 @@ msgstr "Плазмоїд, що показує інформацію про пог
 #: ../../package/contents/code/data-loader.js
 #, qt-format
 msgid "%1 m"
-msgstr "%1 хв."
+msgstr "%1 хв"
 
 #: ../../package/contents/code/data-loader.js
 #, qt-format
 msgid "%1 h"
-msgstr "%1 год."
+msgstr "%1 год"
 
 #: ../../package/contents/code/data-loader.js
 #, qt-format
@@ -154,7 +154,7 @@ msgid ""
 msgstr ""
 "ПРИМІТКА: По закінченню цього часу віджет буде приховано в системному лотку "
 "до наступного оновлення. Ви можете налаштувати віджет на постійне відображення "
-"в налаштуваннях \"Елементів\"."
+"в налаштуваннях \"Пунктів\"."
 
 #: ../../package/contents/ui/config/ConfigAppearance.qml
 msgid "Widget font style"
@@ -171,11 +171,11 @@ msgstr "Розмір шрифту"
 #: ../../package/contents/ui/config/ConfigAppearance.qml
 msgctxt "pixels"
 msgid "px"
-msgstr "пікс."
+msgstr "пікс"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location"
-msgstr "Місцезнаходження"
+msgstr "Місто"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Area"
@@ -208,11 +208,15 @@ msgstr "Джерело"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Place Identifier"
-msgstr "Ідентифікатор місця"
+msgstr "Ідентифікатор міста"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Displayed as"
-msgstr "Відображати як"
+msgstr "Відображувана назва"
+
+#: ../../package/contents/ui/config/ConfigGeneral.qml
+msgid "Action"
+msgstr "Опції"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Description"
@@ -252,7 +256,7 @@ msgstr "Значки погоди створені Еріком Флауерсо
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Change Displayed As"
-msgstr "Змінити \"Відображається як\""
+msgstr "Змінити відображувану назву"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Enter place alias"
@@ -280,7 +284,7 @@ msgid ""
 "e.g. http://openweathermap.org/city/2946447 for Bonn, Germany."
 msgstr ""
 "...і вставте сюди повну URL-адресу\n"
-"напр., https://openweathermap.org/city/703448 для Києва, Україна."
+"наприклад, https://openweathermap.org/city/703448 для Києва."
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Add Met.no Map Place"
@@ -296,11 +300,11 @@ msgstr "URL-адреса"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location Search"
-msgstr "Пошук місцезнаходження"
+msgstr "Пошук міста"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Alt"
-msgstr ""
+msgstr "Висота"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Search data extracted from data provided by Geonames.org."
@@ -346,7 +350,7 @@ msgstr "UTC"
 
 #: ../../package/contents/ui/config/ConfigUnits.qml
 msgid "Location Timezone"
-msgstr "Часова зона місцезнаходження"
+msgstr "Часова зона міста"
 
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Next Location"
