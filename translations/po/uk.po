@@ -175,7 +175,7 @@ msgstr "пікс"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location"
-msgstr "Місто"
+msgstr "Місце"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Area"
@@ -208,7 +208,7 @@ msgstr "Джерело"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Place Identifier"
-msgstr "Ідентифікатор міста"
+msgstr "Ідентифікатор місця"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Displayed as"
@@ -260,11 +260,11 @@ msgstr "Змінити відображувану назву"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Enter place alias"
-msgstr "Введіть назву міста"
+msgstr "Введіть назву місця"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Add Open Weather Map Place"
-msgstr "Додати місто [Open Weather Map]"
+msgstr "Додати місце [Open Weather Map]"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Paste URL here"
@@ -272,11 +272,11 @@ msgstr "Вставте URL-адресу сюди"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "City alias"
-msgstr "Назва міста"
+msgstr "Назва місця"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Find your city ID by searching here"
-msgstr "Знайдіть ідентифікатор міста за пошуком тут"
+msgstr "Знайдіть ідентифікатор місця за пошуком тут"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid ""
@@ -288,7 +288,7 @@ msgstr ""
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Add Met.no Map Place"
-msgstr "Додати місто [Met.no]"
+msgstr "Додати місце [Met.no]"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Search"
@@ -300,7 +300,7 @@ msgstr "URL-адреса"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Location Search"
-msgstr "Пошук міста"
+msgstr "Пошук місця"
 
 #: ../../package/contents/ui/config/ConfigGeneral.qml
 msgid "Alt"
@@ -350,15 +350,15 @@ msgstr "UTC"
 
 #: ../../package/contents/ui/config/ConfigUnits.qml
 msgid "Location Timezone"
-msgstr "Часова зона міста"
+msgstr "Часова зона місця"
 
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Next Location"
-msgstr "Наступне місто"
+msgstr "Наступне місце"
 
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Previous Location"
-msgstr "Попереднє місто"
+msgstr "Попереднє місце"
 
 #: ../../package/contents/ui/FullRepresentation.qml
 msgid "Reload"
@@ -371,7 +371,7 @@ msgstr "%1 тому"
 
 #: ../../package/contents/ui/main.qml
 msgid "near future"
-msgstr "найближчий час"
+msgstr "найближчим часом"
 
 #: ../../package/contents/ui/Meteogram.qml
 msgid "mm"
